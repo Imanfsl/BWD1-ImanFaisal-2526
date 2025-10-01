@@ -1,0 +1,15 @@
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.AssemblyInfoInputs.cache
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.AssemblyInfo.cs
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.csproj.CoreCompileInputs.cache
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.sourcelink.json
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\bin\Debug\net8.0\ConsoleLeeftijd.exe
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\bin\Debug\net8.0\ConsoleLeeftijd.deps.json
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\bin\Debug\net8.0\ConsoleLeeftijd.runtimeconfig.json
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\bin\Debug\net8.0\ConsoleLeeftijd.dll
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\bin\Debug\net8.0\ConsoleLeeftijd.pdb
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.dll
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\obj\Debug\net8.0\refint\ConsoleLeeftijd.dll
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.pdb
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.genruntimeconfig.cache
+C:\Users\56929\OneDrive - ODISEE\Documenten\GitHub\BWD1-ImanFaisal-2526\ConsoleLeeftijd\obj\Debug\net8.0\ref\ConsoleLeeftijd.dll
