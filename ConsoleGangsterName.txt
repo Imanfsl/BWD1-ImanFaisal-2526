@@ -1,3 +1,0 @@
-Console.Write("a");
-Console.Write("b");
-Console.Write("c");
